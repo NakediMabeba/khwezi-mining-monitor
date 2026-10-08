@@ -31,8 +31,10 @@ TEMP_WARNING, TEMP_CRITICAL = 80.0, 100.0
 VIB_WARNING, VIB_CRITICAL = 5.0, 8.0
 
 
+BASE_DIR = Path(__file__).resolve().parent
+
 def load_csv(name, fallback):
-    path = Path("data") / name
+    path = BASE_DIR / "data" / name
     if path.exists():
         try:
             return pd.read_csv(path)
