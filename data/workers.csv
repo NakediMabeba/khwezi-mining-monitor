@@ -1,7 +1,0 @@
-Worker ID,Department,Job Role,Shift,PPE Compliance (%),Training Status,Fatigue Level,Safety Observations,Near Misses,Risk Level
-W001,Production,Driller,Day,96,Complete,2,4,0,Low
-W002,Plant,Operator,Night,82,Complete,4,2,1,Medium
-W003,Engineering,Technician,Day,100,Complete,1,6,0,Low
-W004,Production,LHD Operator,Night,68,Expired,5,1,2,High
-W005,Maintenance,Fitter,Day,91,Complete,3,3,1,Medium
-W006,Production,Blaster,Day,88,Complete,2,5,0,Low

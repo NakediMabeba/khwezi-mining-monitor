@@ -1,7 +1,0 @@
-Equipment ID,Equipment Type,Manufacturer,Operating Hours,Temperature (°C),Vibration (mm/s),Fuel Consumption,Brake Status,Tyre Status,Engine Status,Maintenance Status,Downtime (h),Availability (%)
-TRK-001,Haul Truck,Sandvik,8200,74,4.2,38,Good,Good,Good,Available,18,94
-TRK-002,Haul Truck,Komatsu,9100,87,5.7,41,Good,Good,Good,Available,31,88
-LD-003,Loader,CAT,6200,79,4.8,35,Good,Worn,Good,Available,22,92
-DR-004,Drilling Machine,Epiroc,7100,103,9.2,47,Inspect,Good,Warning,Maintenance Due,55,75
-CR-005,Crusher,Metso,12600,96,6.4,58,Good,Good,Good,Under Maintenance,86,68
-CV-006,Conveyor,Metso,15400,72,3.1,44,Good,Good,Good,Available,12,96
