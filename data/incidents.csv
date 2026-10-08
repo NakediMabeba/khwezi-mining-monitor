@@ -1,0 +1,7 @@
+Incident ID,Date,Time,Shift,Location,Department,Incident Type,Severity,Injury,Lost Time Injury,Cause,Corrective Action,Status
+I001,2026-09-01,07:30,Day,North Pit,Production,Slip/Trip,Medium,No,No,Wet surface,Improve housekeeping,Open
+I002,2026-09-03,21:15,Night,Crusher Plant,Plant,Equipment Contact,High,Yes,Yes,Poor visibility,Repair lighting,Under Review
+I003,2026-09-07,10:10,Day,Workshop,Maintenance,Hand Injury,Low,Yes,No,Improper tool use,Toolbox talk,Closed
+I004,2026-09-12,23:40,Night,South Pit,Production,Fall of Ground,Critical,Yes,Yes,Loose ground,Barricade and inspect,Open
+I005,2026-09-18,14:20,Day,Plant,Plant,Near Miss,Medium,No,No,Pedestrian interaction,Review traffic plan,Closed
+I006,2026-09-24,02:10,Night,North Pit,Production,Vehicle Incident,High,No,No,Reversing near miss,Review reversing controls,Under Review
